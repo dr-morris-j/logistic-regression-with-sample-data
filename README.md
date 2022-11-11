@@ -1,2 +1,2 @@
 # aws_trainee
-NBA Dataset
+NBA Dataset and PyTorch beginner exploration
