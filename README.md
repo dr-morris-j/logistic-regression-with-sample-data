@@ -1,8 +1,11 @@
-# pytorch model and sample data
-NBA Dataset and PyTorch exploration
+# logistic regression and NBA data
 
-EDA:
+### About the model
 
-[scatter plot]
+The logistic regression model is writted in Pytorch. 
+The model is untrained but the code for model training and deployment is in place.
 
-[confusion matrix]
+
+### About the dataset
+
+NBA Dataset was retrieved from Kaggle. It contains team and player information until 2021.
