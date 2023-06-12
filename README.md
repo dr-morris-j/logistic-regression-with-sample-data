@@ -2,7 +2,7 @@
 
 ### About the model
 
-The logistic regression model is writted in Pytorch. 
+The logistic regression model is written in Pytorch. 
 The model is untrained but the code for model training and deployment is in place.
 
 
